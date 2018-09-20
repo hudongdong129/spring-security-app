@@ -18,12 +18,6 @@
   	
   </dependencies>
   
-  <repositories>
-   <repository>
-		<id>central</id>
-		<url>file://D:\sts\repository</url>
-	</repository> 
-  </repositories>
   
 
 </project>
